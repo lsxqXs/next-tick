@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "noEmit": false,
+    "target": "ESNext",
+    "declarationDir": "./out/@types",
+    "outDir": "./out"
+  },
+  "include": [
+    "src/*.ts"
+  ]
+}
